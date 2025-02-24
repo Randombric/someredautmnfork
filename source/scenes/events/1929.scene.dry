@@ -1,4 +1,4 @@
-title: 1929
+title: 2021
 subtitle: A new year
 on-arrival: {!
 // see post_event.scene.dry for changes.
@@ -6,8 +6,8 @@ Q.economic_growth -= 4;
 
 !}
 tags: event
-view-if: year = 1929 and month = 1
+view-if: year = 2021 and month = 1
 priority: 2
 max-visits: 1
 
-A new year begins. The economy appears to be slackening; unemployment is increasing throughout the republic, although for the most part, people are still doing well.
+A new year begins. Merkel is on her way out and we are in the middle of the Covid-crisis. Currently a candidate from the Union or Greens seems likely to win, currently...
